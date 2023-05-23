@@ -1,3 +1,7 @@
+#### explicacao e link da API esta no final do codigo comentado 
+
+
+
 import requests
 import os
 
