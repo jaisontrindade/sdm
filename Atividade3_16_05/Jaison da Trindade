@@ -37,3 +37,10 @@ else:
    
 os.system("PAUSE")
 
+
+
+#####  DOCUMENTACAO #####
+
+##### Essa API é do Governo Federal e nos traz algumas informacoes do governo. Nesse caso usado, ao digitar um codigo de estado (exemplo 47) o a API retorna o numero do "conjunto de distritos"que aquele codigo pertence.
+##### https://servicodados.ibge.gov.br/api/docs/localidades#api-UFs
+
